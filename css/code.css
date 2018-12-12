@@ -5,7 +5,6 @@
   padding-bottom: 20px;
 }
 
-
 .item img {
   position: absolute;
   top: 0;
@@ -14,16 +13,13 @@
   padding-bottom: 20px;
 }
 
-
-
-
-
 body{
   margin: 0;
   padding: 0;
   background: white;
   background-size: cover;
 }
+
 .box{
   width: 450px;
   background: rgba(0, 0, 0, 0.4);
@@ -71,17 +67,6 @@ ul{
 .box li a:hover{
   color: #b9b9b9;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 .container span{
